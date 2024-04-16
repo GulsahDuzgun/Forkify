@@ -1,6 +1,6 @@
 import icons from '../../img/icons.svg';
 
-import { _, Fraction } from '../../../node_modules/fractional/index';
+import { _, Fraction } from 'fractional';
 import View from './View';
 import { API_KEY } from '../config';
 
